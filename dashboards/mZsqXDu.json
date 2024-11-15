@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "id": "lYQCzWK",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false,
+      "enableCrossFilters": true,
+      "showFilterPanel": true,
+      "filtersParams": {
+        "panelPosition": "TOP",
+        "engineType": "LINO"
+      }
+    }
+  ],
+  "owner": "Adam",
+  "listed": true,
+  "name": "Git\u0027s default dashboard",
+  "showGrid": false,
+  "showNavigationArrows": false,
+  "reloadWhenEventReceived": false,
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "Adam"
+    },
+    "lastModifiedOn": 1731667482049,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
